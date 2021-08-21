@@ -25,7 +25,7 @@ I have expericence with frameworks such as:
 ## Databases
 - MySQl
 - SQlite
-- Postgress
+- PostgresSQL
 
 ## Skills
 -  CSS
